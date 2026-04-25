@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "T-shirt",
+        "description": "Premium cotton blend t-shirt with a comfortable fit.",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/newshirt1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Metal analog men's watch",
+        "description": "Classic stainless steel watch with a minimalist dial.",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/watch2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Galaxy watch 2",
+        "description": "Next-gen smartwatch with fitness tracking and notifications.",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/watch1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Submarine Cap",
+        "description": "Durable navy-style cap with adjustable strap.",
+        "price": 11.99,
+        "image": { "fields": { "file": { "url": "./images/cap.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Outdoor canvas",
+        "description": "Rugged canvas shoes designed for adventure and comfort.",
+        "price": 23.99,
+        "image": { "fields": { "file": { "url": "./images/shoe3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "A's cap",
+        "description": "Athletic baseball cap featuring embroidered detailing.",
+        "price": 19.99,
+        "image": { "fields": { "file": { "url": "./images/photo3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Sonic T-shirt",
+        "description": "Graphic tee featuring high-quality screen printing.",
+        "price": 24.99,
+        "image": { "fields": { "file": { "url": "./images/newshirt4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Flower necklace",
+        "description": "Handcrafted floral pendant with a silver-finish chain.",
+        "price": 39.99,
+        "image": { "fields": { "file": { "url": "./images/newnecklace3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Men T-shirt 2",
+        "description": "Modern slim-fit t-shirt in a breathable fabric.",
+        "price": 30.99,
+        "image": { "fields": { "file": { "url": "./images/newshirt5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Oppo watch",
+        "description": "Elegant wearable with long battery life and health sensors.",
+        "price": 18.99,
+        "image": { "fields": { "file": { "url": "./images/watch3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Lace canvas",
+        "description": "Lightweight canvas trainers with stylish lace detailing.",
+        "price": 35.99,
+        "image": { "fields": { "file": { "url": "./images/shoe4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Female trainers",
+        "description": "Sporty footwear with responsive cushioning for all-day use.",
+        "price": 26.99,
+        "image": { "fields": { "file": { "url": "./images/shoe2.jpg" } } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/d0811a5363.js" crossorigin="anonymous"></script>
+    <title>Hadeed Westwood | Checkout</title>
+  </head>
+  <body>
+
+    <nav class="navigation">
+      <div class="navbar-center">
+        <h1><span class="color">hadeed</span> westwood</h1>
+        <div class="auth-buttons">
+            <a href="home.html" class="nav-link">Home</a>
+            <a href="products.html" class="nav-link">Products</a>
+            <a href="cart.html" class="nav-link">Cart</a>
+        </div>
+      </div>
+    </nav>
+
+    <section class="checkout-page">
+      <div class="section-md">
+        <h2 class="pro">Finalize Order</h2>
+      </div>
+
+      <div class="checkout-container">
+        <div class="order-summary">
+          <h3>Order Summary</h3>
+          <div id="checkout-items-list">
+              </div>
+          <hr class="divider">
+          <h4>Total Amount: $<span id="final-checkout-total">0</span></h4>
+        </div>
+
+        <div class="payment-method">
+          <h3>Payment Details</h3>
+          <div class="cod-notice">
+            <i class="fas fa-truck"></i> 
+            <strong>Method:</strong> Cash on Delivery only.
+          </div>
+          <p>Get your bands ready</p>
+          <button class="banner-btn confirm-btn" onclick="completeOrder()">Place Order</button>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <span class="color">Westwood</span> store copyright &copy; 2026
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
